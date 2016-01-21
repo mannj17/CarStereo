@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="Eject"><![CDATA[\\&#x23CF]]></string>
+    <string name="Eject1"><![CDATA[\\&#x23CF;]]></string>
+    <string name="eject2"><![CDATA[&#x23CF;]]></string>
+    <string name="eject">Eject</string>
 </resources>
